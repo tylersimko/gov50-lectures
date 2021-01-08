@@ -2,5 +2,5 @@
 Companion documents to lectures I delivered for Gov 50: Data at Harvard
 
 Topics include:
-- [Bootstrapping](bootstrap.Rmd)
+- [Bootstrapping](docs/bootstrap.Rmd)
 - Model selection
