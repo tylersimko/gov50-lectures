@@ -5,6 +5,7 @@ Gov 50 covers the fundamentals of data and statistical inference using R, includ
 
 Topics include:
 1. [Bayesian regression](docs/stan_glm.Rmd)
-2. stan_glm with covariate predictors: [1](docs/stan_glm_covariates.Rmd), [2](https://github.com/tylersimko/gov50-lectures/blob/main/docs/stan_glm_multiple_covariates.Rmd)
-3. [Bootstrapping](docs/bootstrap.Rmd)
-4. [Model selection](docs/model_selection.Rmd)
+2. [stan_glm with a single covariate](docs/stan_glm_covariates.Rmd)
+3. [stan_glm with multiple covariates](docs/stan_glm_multiple_covariates.Rmd)
+4. [Bootstrapping](docs/bootstrap.Rmd)
+5. [Model selection](docs/model_selection.Rmd)
